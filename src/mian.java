@@ -1,4 +1,4 @@
-public class HW2 {
+public class mian {
     public static void main(String[] args) {
 
         // Объявляете переменные для входных данных и
@@ -12,6 +12,7 @@ public class HW2 {
 
         int amount = 20000;
         int bonus = amount / 20;
+
         System.out.println(bonus);
     }
 }
